@@ -1,3 +1,7 @@
+## This is a fork from Alexa Voice Service for a headless Raspberry Pi
+
+If you want to follow the main project, see the links below. This project was made for learning and testing purposes and has changes to work with a specific setup.
+
 ### What is the Alexa Voice Service (AVS)?
 
 The Alexa Voice Service (AVS) enables developers to integrate Alexa directly into their products, bringing the convenience of voice control to any connected device. AVS provides developers with access to a suite of resources to build Alexa-enabled products, including APIs, hardware development kits, software development kits, and documentation.
